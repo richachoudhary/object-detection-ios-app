@@ -555,7 +555,7 @@ The beauty of CoreML is its flexibility. You can swap models without changing yo
 
 Object detection on iOS has never been more accessible. With just a few hundred lines of Swift, you can build powerful computer vision features that run entirely on-device, protecting user privacy while delivering instant results.
 
-*[Placeholder for final app demo images]*
+
 
 Happy coding! 🚀
 
