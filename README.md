@@ -1,5 +1,7 @@
 # Building a Real-Time Object Detection App with SwiftUI, CoreML, and Vision
 
+![Object Detection App Screenshot](demo.png)
+
 Object detection on mobile devices has come a long way. What used to require server-side processing and expensive hardware can now run smoothly on your iPhone, detecting everything from everyday objects to specific items in real-time. With Apple's CoreML and Vision frameworks, building an object detection app is more accessible than ever.
 
 Today, we'll build a complete object detection app using SwiftUI that can both capture photos with the camera and select images from the photo library. The app will identify objects, draw bounding boxes around them, and show confidence scores—all running locally on the device.
